@@ -1,0 +1,251 @@
+id,location,numeric_code,phone_code,capital,region,subregion,latitude,longitude
+1,Afghanistan,4,93,Kabul,Asia,Southern Asia,33,65
+2,Aland Islands,248,+358-18,Mariehamn,Europe,Northern Europe,60.116667,19.9
+3,Albania,8,355,Tirana,Europe,Southern Europe,41,20
+4,Algeria,12,213,Algiers,Africa,Northern Africa,28,3
+5,American Samoa,16,+1-684,Pago Pago,Oceania,Polynesia,-14.33333333,-170
+6,Andorra,20,376,Andorra la Vella,Europe,Southern Europe,42.5,1.5
+7,Angola,24,244,Luanda,Africa,Middle Africa,-12.5,18.5
+8,Anguilla,660,+1-264,The Valley,Americas,Caribbean,18.25,-63.16666666
+9,Antarctica,10,672,,Polar,,-74.65,4.48
+10,Antigua And Barbuda,28,+1-268,St. John's,Americas,Caribbean,17.05,-61.8
+11,Argentina,32,54,Buenos Aires,Americas,South America,-34,-64
+12,Armenia,51,374,Yerevan,Asia,Western Asia,40,45
+13,Aruba,533,297,Oranjestad,Americas,Caribbean,12.5,-69.96666666
+14,Australia,36,61,Canberra,Oceania,Australia and New Zealand,-27,133
+15,Austria,40,43,Vienna,Europe,Western Europe,47.33333333,13.33333333
+16,Azerbaijan,31,994,Baku,Asia,Western Asia,40.5,47.5
+17,Bahamas The,44,+1-242,Nassau,Americas,Caribbean,24.25,-76
+18,Bahrain,48,973,Manama,Asia,Western Asia,26,50.55
+19,Bangladesh,50,880,Dhaka,Asia,Southern Asia,24,90
+20,Barbados,52,+1-246,Bridgetown,Americas,Caribbean,13.16666666,-59.53333333
+21,Belarus,112,375,Minsk,Europe,Eastern Europe,53,28
+22,Belgium,56,32,Brussels,Europe,Western Europe,50.83333333,4
+23,Belize,84,501,Belmopan,Americas,Central America,17.25,-88.75
+24,Benin,204,229,Porto-Novo,Africa,Western Africa,9.5,2.25
+25,Bermuda,60,+1-441,Hamilton,Americas,Northern America,32.33333333,-64.75
+26,Bhutan,64,975,Thimphu,Asia,Southern Asia,27.5,90.5
+27,Bolivia,68,591,Sucre,Americas,South America,-17,-65
+155,"Bonaire, Sint Eustatius and Saba",535,599,Kralendijk,Americas,Caribbean,12.15,-68.266667
+28,Bosnia and Herzegovina,70,387,Sarajevo,Europe,Southern Europe,44,18
+29,Botswana,72,267,Gaborone,Africa,Southern Africa,-22,24
+30,Bouvet Island,74,55,,,,-54.43333333,3.4
+31,Brazil,76,55,Brasilia,Americas,South America,-10,-55
+32,British Indian Ocean Territory,86,246,Diego Garcia,Africa,Eastern Africa,-6,71.5
+33,Brunei,96,673,Bandar Seri Begawan,Asia,South-Eastern Asia,4.5,114.66666666
+34,Bulgaria,100,359,Sofia,Europe,Eastern Europe,43,25
+35,Burkina Faso,854,226,Ouagadougou,Africa,Western Africa,13,-2
+36,Burundi,108,257,Bujumbura,Africa,Eastern Africa,-3.5,30
+37,Cambodia,116,855,Phnom Penh,Asia,South-Eastern Asia,13,105
+38,Cameroon,120,237,Yaounde,Africa,Middle Africa,6,12
+39,Canada,124,1,Ottawa,Americas,Northern America,60,-95
+40,Cape Verde,132,238,Praia,Africa,Western Africa,16,-24
+41,Cayman Islands,136,+1-345,George Town,Americas,Caribbean,19.5,-80.5
+42,Central African Republic,140,236,Bangui,Africa,Middle Africa,7,21
+43,Chad,148,235,N'Djamena,Africa,Middle Africa,15,19
+44,Chile,152,56,Santiago,Americas,South America,-30,-71
+45,China,156,86,Beijing,Asia,Eastern Asia,35,105
+46,Christmas Island,162,61,Flying Fish Cove,Oceania,Australia and New Zealand,-10.5,105.66666666
+47,Cocos (Keeling) Islands,166,61,West Island,Oceania,Australia and New Zealand,-12.5,96.83333333
+48,Colombia,170,57,Bogotá,Americas,South America,4,-72
+49,Comoros,174,269,Moroni,Africa,Eastern Africa,-12.16666666,44.25
+50,Congo,178,242,Brazzaville,Africa,Middle Africa,-1,15
+52,Cook Islands,184,682,Avarua,Oceania,Polynesia,-21.23333333,-159.76666666
+53,Costa Rica,188,506,San Jose,Americas,Central America,10,-84
+54,Cote D'Ivoire (Ivory Coast),384,225,Yamoussoukro,Africa,Western Africa,8,-5
+55,Croatia,191,385,Zagreb,Europe,Southern Europe,45.16666666,15.5
+56,Cuba,192,53,Havana,Americas,Caribbean,21.5,-80
+249,Curaçao,531,599,Willemstad,Americas,Caribbean,12.116667,-68.933333
+57,Cyprus,196,357,Nicosia,Europe,Southern Europe,35,33
+58,Czech Republic,203,420,Prague,Europe,Eastern Europe,49.75,15.5
+51,Democratic Republic of the Congo,180,243,Kinshasa,Africa,Middle Africa,0,25
+59,Denmark,208,45,Copenhagen,Europe,Northern Europe,56,10
+60,Djibouti,262,253,Djibouti,Africa,Eastern Africa,11.5,43
+61,Dominica,212,+1-767,Roseau,Americas,Caribbean,15.41666666,-61.33333333
+62,Dominican Republic,214,+1-809 and 1-829,Santo Domingo,Americas,Caribbean,19,-70.66666666
+63,East Timor,626,670,Dili,Asia,South-Eastern Asia,-8.83333333,125.91666666
+64,Ecuador,218,593,Quito,Americas,South America,-2,-77.5
+65,Egypt,818,20,Cairo,Africa,Northern Africa,27,30
+66,El Salvador,222,503,San Salvador,Americas,Central America,13.83333333,-88.91666666
+67,Equatorial Guinea,226,240,Malabo,Africa,Middle Africa,2,10
+68,Eritrea,232,291,Asmara,Africa,Eastern Africa,15,39
+69,Estonia,233,372,Tallinn,Europe,Northern Europe,59,26
+70,Ethiopia,231,251,Addis Ababa,Africa,Eastern Africa,8,38
+71,Falkland Islands,238,500,Stanley,Americas,South America,-51.75,-59
+72,Faroe Islands,234,298,Torshavn,Europe,Northern Europe,62,-7
+73,Fiji Islands,242,679,Suva,Oceania,Melanesia,-18,175
+74,Finland,246,358,Helsinki,Europe,Northern Europe,64,26
+75,France,250,33,Paris,Europe,Western Europe,46,2
+76,French Guiana,254,594,Cayenne,Americas,South America,4,-53
+77,French Polynesia,258,689,Papeete,Oceania,Polynesia,-15,-140
+78,French Southern Territories,260,262,Port-aux-Francais,Africa,Southern Africa,-49.25,69.167
+79,Gabon,266,241,Libreville,Africa,Middle Africa,-1,11.75
+80,Gambia The,270,220,Banjul,Africa,Western Africa,13.46666666,-16.56666666
+81,Georgia,268,995,Tbilisi,Asia,Western Asia,42,43.5
+82,Germany,276,49,Berlin,Europe,Western Europe,51,9
+83,Ghana,288,233,Accra,Africa,Western Africa,8,-2
+84,Gibraltar,292,350,Gibraltar,Europe,Southern Europe,36.13333333,-5.35
+85,Greece,300,30,Athens,Europe,Southern Europe,39,22
+86,Greenland,304,299,Nuuk,Americas,Northern America,72,-40
+87,Grenada,308,+1-473,St. George's,Americas,Caribbean,12.11666666,-61.66666666
+88,Guadeloupe,312,590,Basse-Terre,Americas,Caribbean,16.25,-61.583333
+89,Guam,316,+1-671,Hagatna,Oceania,Micronesia,13.46666666,144.78333333
+90,Guatemala,320,502,Guatemala City,Americas,Central America,15.5,-90.25
+91,Guernsey and Alderney,831,+44-1481,St Peter Port,Europe,Northern Europe,49.46666666,-2.58333333
+92,Guinea,324,224,Conakry,Africa,Western Africa,11,-10
+93,Guinea-Bissau,624,245,Bissau,Africa,Western Africa,12,-15
+94,Guyana,328,592,Georgetown,Americas,South America,5,-59
+95,Haiti,332,509,Port-au-Prince,Americas,Caribbean,19,-72.41666666
+96,Heard Island and McDonald Islands,334,672,,,,-53.1,72.51666666
+97,Honduras,340,504,Tegucigalpa,Americas,Central America,15,-86.5
+98,Hong Kong S.A.R.,344,852,Hong Kong,Asia,Eastern Asia,22.25,114.16666666
+99,Hungary,348,36,Budapest,Europe,Eastern Europe,47,20
+100,Iceland,352,354,Reykjavik,Europe,Northern Europe,65,-18
+101,India,356,91,New Delhi,Asia,Southern Asia,20,77
+102,Indonesia,360,62,Jakarta,Asia,South-Eastern Asia,-5,120
+103,Iran,364,98,Tehran,Asia,Southern Asia,32,53
+104,Iraq,368,964,Baghdad,Asia,Western Asia,33,44
+105,Ireland,372,353,Dublin,Europe,Northern Europe,53,-8
+106,Israel,376,972,Jerusalem,Asia,Western Asia,31.5,34.75
+107,Italy,380,39,Rome,Europe,Southern Europe,42.83333333,12.83333333
+108,Jamaica,388,+1-876,Kingston,Americas,Caribbean,18.25,-77.5
+109,Japan,392,81,Tokyo,Asia,Eastern Asia,36,138
+110,Jersey,832,+44-1534,Saint Helier,Europe,Northern Europe,49.25,-2.16666666
+111,Jordan,400,962,Amman,Asia,Western Asia,31,36
+112,Kazakhstan,398,7,Astana,Asia,Central Asia,48,68
+113,Kenya,404,254,Nairobi,Africa,Eastern Africa,1,38
+114,Kiribati,296,686,Tarawa,Oceania,Micronesia,1.41666666,173
+248,Kosovo,926,383,Pristina,Europe,Eastern Europe,42.5612909,20.3403035
+117,Kuwait,414,965,Kuwait City,Asia,Western Asia,29.5,45.75
+118,Kyrgyzstan,417,996,Bishkek,Asia,Central Asia,41,75
+119,Laos,418,856,Vientiane,Asia,South-Eastern Asia,18,105
+120,Latvia,428,371,Riga,Europe,Northern Europe,57,25
+121,Lebanon,422,961,Beirut,Asia,Western Asia,33.83333333,35.83333333
+122,Lesotho,426,266,Maseru,Africa,Southern Africa,-29.5,28.5
+123,Liberia,430,231,Monrovia,Africa,Western Africa,6.5,-9.5
+124,Libya,434,218,Tripolis,Africa,Northern Africa,25,17
+125,Liechtenstein,438,423,Vaduz,Europe,Western Europe,47.26666666,9.53333333
+126,Lithuania,440,370,Vilnius,Europe,Northern Europe,56,24
+127,Luxembourg,442,352,Luxembourg,Europe,Western Europe,49.75,6.16666666
+128,Macau S.A.R.,446,853,Macao,Asia,Eastern Asia,22.16666666,113.55
+129,Macedonia,807,389,Skopje,Europe,Southern Europe,41.83333333,22
+130,Madagascar,450,261,Antananarivo,Africa,Eastern Africa,-20,47
+131,Malawi,454,265,Lilongwe,Africa,Eastern Africa,-13.5,34
+132,Malaysia,458,60,Kuala Lumpur,Asia,South-Eastern Asia,2.5,112.5
+133,Maldives,462,960,Male,Asia,Southern Asia,3.25,73
+134,Mali,466,223,Bamako,Africa,Western Africa,17,-4
+135,Malta,470,356,Valletta,Europe,Southern Europe,35.83333333,14.58333333
+136,Man (Isle of),833,+44-1624,"Douglas, Isle of Man",Europe,Northern Europe,54.25,-4.5
+137,Marshall Islands,584,692,Majuro,Oceania,Micronesia,9,168
+138,Martinique,474,596,Fort-de-France,Americas,Caribbean,14.666667,-61
+139,Mauritania,478,222,Nouakchott,Africa,Western Africa,20,-12
+140,Mauritius,480,230,Port Louis,Africa,Eastern Africa,-20.28333333,57.55
+141,Mayotte,175,262,Mamoudzou,Africa,Eastern Africa,-12.83333333,45.16666666
+142,Mexico,484,52,Mexico City,Americas,Central America,23,-102
+143,Micronesia,583,691,Palikir,Oceania,Micronesia,6.91666666,158.25
+144,Moldova,498,373,Chisinau,Europe,Eastern Europe,47,29
+145,Monaco,492,377,Monaco,Europe,Western Europe,43.73333333,7.4
+146,Mongolia,496,976,Ulan Bator,Asia,Eastern Asia,46,105
+147,Montenegro,499,382,Podgorica,Europe,Southern Europe,42.5,19.3
+148,Montserrat,500,+1-664,Plymouth,Americas,Caribbean,16.75,-62.2
+149,Morocco,504,212,Rabat,Africa,Northern Africa,32,-5
+150,Mozambique,508,258,Maputo,Africa,Eastern Africa,-18.25,35
+151,Myanmar,104,95,Nay Pyi Taw,Asia,South-Eastern Asia,22,98
+152,Namibia,516,264,Windhoek,Africa,Southern Africa,-22,17
+153,Nauru,520,674,Yaren,Oceania,Micronesia,-0.53333333,166.91666666
+154,Nepal,524,977,Kathmandu,Asia,Southern Asia,28,84
+156,Netherlands,528,31,Amsterdam,Europe,Western Europe,52.5,5.75
+157,New Caledonia,540,687,Noumea,Oceania,Melanesia,-21.5,165.5
+158,New Zealand,554,64,Wellington,Oceania,Australia and New Zealand,-41,174
+159,Nicaragua,558,505,Managua,Americas,Central America,13,-85
+160,Niger,562,227,Niamey,Africa,Western Africa,16,8
+161,Nigeria,566,234,Abuja,Africa,Western Africa,10,8
+162,Niue,570,683,Alofi,Oceania,Polynesia,-19.03333333,-169.86666666
+163,Norfolk Island,574,672,Kingston,Oceania,Australia and New Zealand,-29.03333333,167.95
+115,North Korea,408,850,Pyongyang,Asia,Eastern Asia,40,127
+164,Northern Mariana Islands,580,+1-670,Saipan,Oceania,Micronesia,15.2,145.75
+165,Norway,578,47,Oslo,Europe,Northern Europe,62,10
+166,Oman,512,968,Muscat,Asia,Western Asia,21,57
+167,Pakistan,586,92,Islamabad,Asia,Southern Asia,30,70
+168,Palau,585,680,Melekeok,Oceania,Micronesia,7.5,134.5
+169,Palestinian Territory Occupied,275,970,East Jerusalem,Asia,Western Asia,31.9,35.2
+170,Panama,591,507,Panama City,Americas,Central America,9,-80
+171,Papua new Guinea,598,675,Port Moresby,Oceania,Melanesia,-6,147
+172,Paraguay,600,595,Asuncion,Americas,South America,-23,-58
+173,Peru,604,51,Lima,Americas,South America,-10,-76
+174,Philippines,608,63,Manila,Asia,South-Eastern Asia,13,122
+175,Pitcairn Island,612,870,Adamstown,Oceania,Polynesia,-25.06666666,-130.1
+176,Poland,616,48,Warsaw,Europe,Eastern Europe,52,20
+177,Portugal,620,351,Lisbon,Europe,Southern Europe,39.5,-8
+178,Puerto Rico,630,+1-787 and 1-939,San Juan,Americas,Caribbean,18.25,-66.5
+179,Qatar,634,974,Doha,Asia,Western Asia,25.5,51.25
+180,Reunion,638,262,Saint-Denis,Africa,Eastern Africa,-21.15,55.5
+181,Romania,642,40,Bucharest,Europe,Eastern Europe,46,25
+182,Russia,643,7,Moscow,Europe,Eastern Europe,60,100
+183,Rwanda,646,250,Kigali,Africa,Eastern Africa,-2,30
+184,Saint Helena,654,290,Jamestown,Africa,Western Africa,-15.95,-5.7
+185,Saint Kitts And Nevis,659,+1-869,Basseterre,Americas,Caribbean,17.33333333,-62.75
+186,Saint Lucia,662,+1-758,Castries,Americas,Caribbean,13.88333333,-60.96666666
+187,Saint Pierre and Miquelon,666,508,Saint-Pierre,Americas,Northern America,46.83333333,-56.33333333
+188,Saint Vincent And The Grenadines,670,+1-784,Kingstown,Americas,Caribbean,13.25,-61.2
+189,Saint-Barthelemy,652,590,Gustavia,Americas,Caribbean,18.5,-63.41666666
+190,Saint-Martin (French part),663,590,Marigot,Americas,Caribbean,18.08333333,-63.95
+191,Samoa,882,685,Apia,Oceania,Polynesia,-13.58333333,-172.33333333
+192,San Marino,674,378,San Marino,Europe,Southern Europe,43.76666666,12.41666666
+193,Sao Tome and Principe,678,239,Sao Tome,Africa,Middle Africa,1,7
+194,Saudi Arabia,682,966,Riyadh,Asia,Western Asia,25,45
+195,Senegal,686,221,Dakar,Africa,Western Africa,14,-14
+196,Serbia,688,381,Belgrade,Europe,Southern Europe,44,21
+197,Seychelles,690,248,Victoria,Africa,Eastern Africa,-4.58333333,55.66666666
+198,Sierra Leone,694,232,Freetown,Africa,Western Africa,8.5,-11.5
+199,Singapore,702,65,Singapur,Asia,South-Eastern Asia,1.36666666,103.8
+250,Sint Maarten (Dutch part),534,1721,Philipsburg,Americas,Caribbean,18.033333,-63.05
+200,Slovakia,703,421,Bratislava,Europe,Eastern Europe,48.66666666,19.5
+201,Slovenia,705,386,Ljubljana,Europe,Southern Europe,46.11666666,14.81666666
+202,Solomon Islands,90,677,Honiara,Oceania,Melanesia,-8,159
+203,Somalia,706,252,Mogadishu,Africa,Eastern Africa,10,49
+204,South Africa,710,27,Pretoria,Africa,Southern Africa,-29,24
+205,South Georgia,239,500,Grytviken,Americas,South America,-54.5,-37
+116,South Korea,410,82,Seoul,Asia,Eastern Asia,37,127.5
+206,South Sudan,728,211,Juba,Africa,Middle Africa,7,30
+207,Spain,724,34,Madrid,Europe,Southern Europe,40,-4
+208,Sri Lanka,144,94,Colombo,Asia,Southern Asia,7,81
+209,Sudan,729,249,Khartoum,Africa,Northern Africa,15,30
+210,Suriname,740,597,Paramaribo,Americas,South America,4,-56
+211,Svalbard And Jan Mayen Islands,744,47,Longyearbyen,Europe,Northern Europe,78,20
+212,Swaziland,748,268,Mbabane,Africa,Southern Africa,-26.5,31.5
+213,Sweden,752,46,Stockholm,Europe,Northern Europe,62,15
+214,Switzerland,756,41,Bern,Europe,Western Europe,47,8
+215,Syria,760,963,Damascus,Asia,Western Asia,35,38
+216,Taiwan,158,886,Taipei,Asia,Eastern Asia,23.5,121
+217,Tajikistan,762,992,Dushanbe,Asia,Central Asia,39,71
+218,Tanzania,834,255,Dodoma,Africa,Eastern Africa,-6,35
+219,Thailand,764,66,Bangkok,Asia,South-Eastern Asia,15,100
+220,Togo,768,228,Lome,Africa,Western Africa,8,1.16666666
+221,Tokelau,772,690,,Oceania,Polynesia,-9,-172
+222,Tonga,776,676,Nuku'alofa,Oceania,Polynesia,-20,-175
+223,Trinidad And Tobago,780,+1-868,Port of Spain,Americas,Caribbean,11,-61
+224,Tunisia,788,216,Tunis,Africa,Northern Africa,34,9
+225,Turkey,792,90,Ankara,Asia,Western Asia,39,35
+226,Turkmenistan,795,993,Ashgabat,Asia,Central Asia,40,60
+227,Turks And Caicos Islands,796,+1-649,Cockburn Town,Americas,Caribbean,21.75,-71.58333333
+228,Tuvalu,798,688,Funafuti,Oceania,Polynesia,-8,178
+229,Uganda,800,256,Kampala,Africa,Eastern Africa,1,32
+230,Ukraine,804,380,Kiev,Europe,Eastern Europe,49,32
+231,United Arab Emirates,784,971,Abu Dhabi,Asia,Western Asia,24,54
+232,United Kingdom,826,44,London,Europe,Northern Europe,54,-2
+233,United States,840,1,Washington,Americas,Northern America,38,-97
+234,United States Minor Outlying Islands,581,1,,Americas,Northern America,0,0
+235,Uruguay,858,598,Montevideo,Americas,South America,-33,-56
+236,Uzbekistan,860,998,Tashkent,Asia,Central Asia,41,64
+237,Vanuatu,548,678,Port Vila,Oceania,Melanesia,-16,167
+238,Vatican City State (Holy See),336,379,Vatican City,Europe,Southern Europe,41.9,12.45
+239,Venezuela,862,58,Caracas,Americas,South America,8,-66
+240,Vietnam,704,84,Hanoi,Asia,South-Eastern Asia,16.16666666,107.83333333
+241,Virgin Islands (British),92,+1-284,Road Town,Americas,Caribbean,18.431383,-64.62305
+242,Virgin Islands (US),850,+1-340,Charlotte Amalie,Americas,Caribbean,18.34,-64.93
+243,Wallis And Futuna Islands,876,681,Mata Utu,Oceania,Polynesia,-13.3,-176.2
+244,Western Sahara,732,212,El-Aaiun,Africa,Northern Africa,24.5,-13
+245,Yemen,887,967,Sanaa,Asia,Western Asia,15,48
+246,Zambia,894,260,Lusaka,Africa,Eastern Africa,-15,30
+247,Zimbabwe,716,263,Harare,Africa,Eastern Africa,-20,30
